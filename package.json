@@ -1,0 +1,14 @@
+{
+  "name": "zazu-slack",
+  "version": "0.1.0",
+  "description": "Zazu for Slack \\o/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Lowman",
+  "license": "MIT",
+  "dependencies": {
+    "slack-client": "^1.4.1"
+  }
+}
